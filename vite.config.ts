@@ -8,7 +8,6 @@ const manifest = defineManifest({
   manifest_version: 3,
   name: 'MiTERAS for Manager',
   version: '1.0.0',
-  author: 'shooooori0128',
   permissions: ['storage'],
   action: {
     default_icon: {
